@@ -4,12 +4,14 @@ This project sets up a containerized Nginx web server to host a static website f
 
 
 Project Folder Structure;
+
 📁 orchid-haven-docker
  🗄️Dockerfile 
  🗄️nginx.conf 
  🗄️index.html 
  🗄️styles.css 
  🗄️README.md
+
 
 
 Steps to deploy the static website on an EC2 instance using Docker.
