@@ -45,5 +45,17 @@ Access the Website; Visit your EC2 public IP: http://<your-ec2-public-ip>
 Check container health; curl http://localhost/healthzocker build -t orchidhaven:1.0.0 .
 
 
+Screenshots
+Inside the /Docs folder:
+
+Orchid-haven-ec2.png – Running EC2 instance showing public IP
+Folder setup.png – Project Folder setup
+Dockerfile setup.png – Dockerfile contents
+Docker build.png – Docker build success
+Running container.png – Running container screenshot
+Website Screenshot.png – containerized Nginx web server static website 
+
+
+
 
  
